@@ -1,4 +1,4 @@
-# Install script for directory: /home/anonymous/Projects/primary_numbers/primary_symmetry
+# Install script for directory: /home/anonymous/prime_numbers/primary_symmetry
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

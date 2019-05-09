@@ -48,10 +48,10 @@ RM = /home/anonymous/Programy/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remove
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/anonymous/Projects/primary_numbers/primary_symmetry
+CMAKE_SOURCE_DIR = /home/anonymous/prime_numbers/primary_symmetry
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug
+CMAKE_BINARY_DIR = /home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/CMakeFiles /home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/CMakeFiles /home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

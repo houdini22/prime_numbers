@@ -4,4 +4,5 @@ project(primary_symmetry)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(primary_symmetry
+        CMakeLists.txt
         main.cpp)

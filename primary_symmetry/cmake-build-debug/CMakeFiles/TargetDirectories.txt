@@ -1,3 +1,3 @@
-/home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/primary_symmetry.dir
-/home/anonymous/Projects/primary_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/primary_symmetry.dir
+/home/anonymous/prime_numbers/primary_symmetry/cmake-build-debug/CMakeFiles/edit_cache.dir
