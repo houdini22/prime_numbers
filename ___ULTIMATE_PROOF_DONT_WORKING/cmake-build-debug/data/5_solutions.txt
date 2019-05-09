@@ -1,0 +1,8 @@
+
+
+
+total numbers: 0
+sum - primes: 0
+sum - not primes: 0
+solution - primes: 0
+solution - not primes: 0

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/___ULTIMATE_PROOF_DONT_WORKING.dir/main.cpp.o  -o ___ULTIMATE_PROOF_DONT_WORKING 
