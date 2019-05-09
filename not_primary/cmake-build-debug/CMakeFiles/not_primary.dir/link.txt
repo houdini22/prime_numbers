@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/not_primary.dir/bigInt.cpp.o CMakeFiles/not_primary.dir/main.cpp.o  -o not_primary 

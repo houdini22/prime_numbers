@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -g    CMakeFiles/not_primary.dir/main.cpp.o CMakeFiles/not_primary.dir/BigInteger.cpp.o CMakeFiles/not_primary.dir/BigIntegerAlgorithms.cpp.o CMakeFiles/not_primary.dir/BigIntegerUtils.cpp.o CMakeFiles/not_primary.dir/BigUnsigned.cpp.o CMakeFiles/not_primary.dir/BigUnsignedInABase.cpp.o  -o not_primary 

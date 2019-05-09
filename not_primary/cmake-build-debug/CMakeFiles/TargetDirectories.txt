@@ -1,0 +1,3 @@
+/home/anonymous/primary/not_primary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anonymous/primary/not_primary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anonymous/primary/not_primary/cmake-build-debug/CMakeFiles/not_primary.dir

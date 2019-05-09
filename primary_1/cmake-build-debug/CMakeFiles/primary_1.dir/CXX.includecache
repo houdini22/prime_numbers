@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anonymous/primary/primary_1/main.cpp
+iostream
+-
+math.h
+-
+string
+-
+algorithm
+-
+vector
+-
+stdlib.h
+-
+map
+-
+fstream
+-
+stdio.h
+-
+string.h
+-
+sstream
+-
+chrono
+-
+

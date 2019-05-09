@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sieve.dir/bigInt.cpp.o CMakeFiles/sieve.dir/main.cpp.o  -o sieve 

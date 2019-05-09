@@ -1,0 +1,1 @@
+/usr/bin/c++   -Ofast -m64 -flto -march=native -funroll-loops -mavx -msse4.2 -fopenmp -g   CMakeFiles/test.dir/main.cpp.o  -o test 

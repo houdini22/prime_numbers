@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/primary_symmetry.dir/main.cpp.o  -o primary_symmetry 
